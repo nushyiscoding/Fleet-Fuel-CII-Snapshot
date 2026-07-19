@@ -1,0 +1,128 @@
+1. Monthly Fuel & CO?,,,,,2. Avg CII & Efficiency by Ship Type,,,,,3. Avg CII by Ship (for Ratings),,
+,,,,,,,,,,,,
+month,Sum of fuel_consumption,Sum of CO2_emissions,,,ship_type,Average of CII_score,,,,ship_type,ship_id,Average of CII_score
+January,578786.5,1607268.6,,,Fishing Trawler,139.2,,,,Fishing Trawler,NG002,140.23
+February,618705.5,1708736.5,,,Oil Service Boat,55.2,,,,Fishing Trawler,NG009,139.03
+March,649478.8,1797694.7,,,Surfer Boat,827.9,,,,Fishing Trawler,NG010,139.66
+April,645327.0,1782722.8,,,Tanker Ship,1.1,,,,Fishing Trawler,NG019,148.39
+May,629665.6,1754620.5,,,Grand Total,231.25,,,,Fishing Trawler,NG030,132.18
+June,551896.0,1512158.0,,,,,,,,Fishing Trawler,NG031,139.37
+July,615212.2,1689203.1,,,,,,,,Fishing Trawler,NG035,145.19
+August,477182.8,1316098.9,,,,,,,,Fishing Trawler,NG039,141.40
+September,563410.5,1545951.8,,,,,,,,Fishing Trawler,NG040,142.82
+October,543808.8,1483997.7,,,,,,,,Fishing Trawler,NG044,136.36
+November,573262.1,1579784.1,,,,,,,,Fishing Trawler,NG050,140.61
+December,528979.3,1468018.2,,,,,,,,Fishing Trawler,NG056,138.59
+Grand Total,6975715.01,19246255.03,,,,,,,,Fishing Trawler,NG064,150.32
+,,,,,,,,,,Fishing Trawler,NG073,135.31
+,,,,,,,,,,Fishing Trawler,NG075,138.32
+4. Count of low-efficiency voyages by ship type,,,,5. Average CII by Weather,,,,,,Fishing Trawler,NG076,132.48
+,,,,,,,,,,Fishing Trawler,NG081,143.56
+Count of Eff_Flag,Eff_Flag,,,weather_conditions,Average of CII_score,,,,,Fishing Trawler,NG084,131.19
+ship_type,LOW,,,Calm,207.26,,,,,Fishing Trawler,NG089,133.41
+Fishing Trawler,65,,,Moderate,242.21,,,,,Fishing Trawler,NG092,147.03
+Oil Service Boat,61,,,Stormy,247.08,,,,,Fishing Trawler,NG093,132.90
+Surfer Boat,67,,,Grand Total,231.2468083,,,,,Fishing Trawler,NG097,137.15
+Tanker Ship,85,,,,,,,,,Fishing Trawler,NG106,135.99
+Grand Total,278,,,,,,,,,Fishing Trawler,NG107,134.38
+,,,,,,,,,,Fishing Trawler,NG120,144.99
+,,,,,,,,,,Fishing Trawler Total,,139.23
+,,,,,,,,,,Oil Service Boat,NG001,55.85
+,,,,,,,,,,Oil Service Boat,NG003,55.14
+,,,,,,,,,,Oil Service Boat,NG011,55.08
+,,,,,,,,,,Oil Service Boat,NG014,52.50
+,,,,,,,,,,Oil Service Boat,NG020,51.19
+,,,,,,,,,,Oil Service Boat,NG022,53.68
+,,,,,,,,,,Oil Service Boat,NG023,57.64
+,,,,,,,,,,Oil Service Boat,NG025,55.47
+,,,,,,,,,,Oil Service Boat,NG026,56.50
+,,,,,,,,,,Oil Service Boat,NG027,55.13
+,,,,,,,,,,Oil Service Boat,NG029,58.20
+,,,,,,,,,,Oil Service Boat,NG033,56.30
+,,,,,,,,,,Oil Service Boat,NG038,55.97
+,,,,,,,,,,Oil Service Boat,NG041,53.50
+,,,,,,,,,,Oil Service Boat,NG045,53.00
+,,,,,,,,,,Oil Service Boat,NG046,51.55
+,,,,,,,,,,Oil Service Boat,NG052,56.56
+,,,,,,,,,,Oil Service Boat,NG057,56.09
+,,,,,,,,,,Oil Service Boat,NG059,54.24
+,,,,,,,,,,Oil Service Boat,NG063,53.46
+,,,,,,,,,,Oil Service Boat,NG065,52.29
+,,,,,,,,,,Oil Service Boat,NG068,54.89
+,,,,,,,,,,Oil Service Boat,NG070,55.46
+,,,,,,,,,,Oil Service Boat,NG074,55.70
+,,,,,,,,,,Oil Service Boat,NG080,53.30
+,,,,,,,,,,Oil Service Boat,NG083,58.44
+,,,,,,,,,,Oil Service Boat,NG086,57.22
+,,,,,,,,,,Oil Service Boat,NG087,57.56
+,,,,,,,,,,Oil Service Boat,NG094,54.91
+,,,,,,,,,,Oil Service Boat,NG095,56.00
+,,,,,,,,,,Oil Service Boat,NG103,53.71
+,,,,,,,,,,Oil Service Boat,NG104,55.68
+,,,,,,,,,,Oil Service Boat,NG105,57.49
+,,,,,,,,,,Oil Service Boat,NG112,57.07
+,,,,,,,,,,Oil Service Boat Total,,55.20
+,,,,,,,,,,Surfer Boat,NG004,783.52
+,,,,,,,,,,Surfer Boat,NG006,910.32
+,,,,,,,,,,Surfer Boat,NG007,797.18
+,,,,,,,,,,Surfer Boat,NG013,756.18
+,,,,,,,,,,Surfer Boat,NG015,821.25
+,,,,,,,,,,Surfer Boat,NG018,863.47
+,,,,,,,,,,Surfer Boat,NG021,817.36
+,,,,,,,,,,Surfer Boat,NG028,795.47
+,,,,,,,,,,Surfer Boat,NG034,765.93
+,,,,,,,,,,Surfer Boat,NG043,831.52
+,,,,,,,,,,Surfer Boat,NG047,817.62
+,,,,,,,,,,Surfer Boat,NG051,821.19
+,,,,,,,,,,Surfer Boat,NG061,779.35
+,,,,,,,,,,Surfer Boat,NG069,843.11
+,,,,,,,,,,Surfer Boat,NG072,848.40
+,,,,,,,,,,Surfer Boat,NG078,783.90
+,,,,,,,,,,Surfer Boat,NG088,804.04
+,,,,,,,,,,Surfer Boat,NG096,844.17
+,,,,,,,,,,Surfer Boat,NG100,853.96
+,,,,,,,,,,Surfer Boat,NG101,854.70
+,,,,,,,,,,Surfer Boat,NG102,853.02
+,,,,,,,,,,Surfer Boat,NG109,908.74
+,,,,,,,,,,Surfer Boat,NG110,797.89
+,,,,,,,,,,Surfer Boat,NG111,770.71
+,,,,,,,,,,Surfer Boat,NG113,845.22
+,,,,,,,,,,Surfer Boat,NG114,892.86
+,,,,,,,,,,Surfer Boat,NG115,893.00
+,,,,,,,,,,Surfer Boat Total,,827.93
+,,,,,,,,,,Tanker Ship,NG005,1.12
+,,,,,,,,,,Tanker Ship,NG008,1.12
+,,,,,,,,,,Tanker Ship,NG012,1.15
+,,,,,,,,,,Tanker Ship,NG016,1.13
+,,,,,,,,,,Tanker Ship,NG017,1.03
+,,,,,,,,,,Tanker Ship,NG024,1.13
+,,,,,,,,,,Tanker Ship,NG032,1.16
+,,,,,,,,,,Tanker Ship,NG036,1.11
+,,,,,,,,,,Tanker Ship,NG037,1.11
+,,,,,,,,,,Tanker Ship,NG042,1.12
+,,,,,,,,,,Tanker Ship,NG048,1.09
+,,,,,,,,,,Tanker Ship,NG049,1.11
+,,,,,,,,,,Tanker Ship,NG053,1.01
+,,,,,,,,,,Tanker Ship,NG054,1.10
+,,,,,,,,,,Tanker Ship,NG055,1.07
+,,,,,,,,,,Tanker Ship,NG058,1.05
+,,,,,,,,,,Tanker Ship,NG060,1.17
+,,,,,,,,,,Tanker Ship,NG062,0.99
+,,,,,,,,,,Tanker Ship,NG066,1.16
+,,,,,,,,,,Tanker Ship,NG067,1.09
+,,,,,,,,,,Tanker Ship,NG071,1.15
+,,,,,,,,,,Tanker Ship,NG077,1.20
+,,,,,,,,,,Tanker Ship,NG079,1.11
+,,,,,,,,,,Tanker Ship,NG082,1.18
+,,,,,,,,,,Tanker Ship,NG085,1.11
+,,,,,,,,,,Tanker Ship,NG090,1.09
+,,,,,,,,,,Tanker Ship,NG091,1.20
+,,,,,,,,,,Tanker Ship,NG098,1.14
+,,,,,,,,,,Tanker Ship,NG099,1.05
+,,,,,,,,,,Tanker Ship,NG108,1.19
+,,,,,,,,,,Tanker Ship,NG116,1.13
+,,,,,,,,,,Tanker Ship,NG117,1.07
+,,,,,,,,,,Tanker Ship,NG118,1.10
+,,,,,,,,,,Tanker Ship,NG119,1.13
+,,,,,,,,,,Tanker Ship Total,,1.11
+,,,,,,,,,,Grand Total,,231.25
